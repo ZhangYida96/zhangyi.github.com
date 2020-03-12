@@ -1,37 +1,18 @@
-## Welcome to GitHub Pages
+### 个人信息
+#### 姓名 张易
+#### 学历 硕士
+#### 学校 浙江大学
+#### 邮箱 zhyi@zju.edu.cn
 
-You can use the [editor on GitHub](https://github.com/ZhangYida96/zhangyi.github.com/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### 研究方向
+- 3D目标检测
+- 自动驾驶
 
-### Markdown
+### 最新消息
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+### 发表论文
+Zhang Y, Xiang Z, Qiao C, et al. Accurate and Real-Time Object Detection Based on Bird's Eye View on 3D Point Clouds[C]//2019 International Conference on 3D Vision (3DV). IEEE, 2019: 214-221.
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ZhangYida96/zhangyi.github.com/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Gu S, Xiang Z, Zhang Y, et al. A multi-position joint particle filtering method for vehicle localization in urban area[C]//2018 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS). IEEE, 2018: 656-662.
